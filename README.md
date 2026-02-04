@@ -22,6 +22,7 @@ The automotive market is increasingly competitive and influenced by shifting con
 * **Key Metrics:** Total Revenue, Average Sales Volume, and Sum of Price.
 
 ###  Results & Insights
+![BMW Sales Dashboard Analysis](https://github.com/Eyilivia78/Project-Report-BMW-Global-Sales-Performance-Analysis/blob/main/Screenshot%202026-02-04%20113021.png)
 
 #### Financial Overview
 
